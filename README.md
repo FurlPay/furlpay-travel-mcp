@@ -1,5 +1,10 @@
 # @furlpay/travel-mcp — FurlPay Travels
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![x402](https://img.shields.io/badge/x402-0052FF?style=flat-square)
+![USDC](https://img.shields.io/badge/USDC-2775CA?style=flat-square)
+
 The payment & orchestration layer for **agentic travel**. This MCP server composes
 [Travala's Travel MCP](https://www.travala.com/blog/introducing-travalas-agentic-ai-travel-protocol/)
 (search 2.2M+ hotels + flights) with [FurlPay](https://furlpay.com)'s payment rails
